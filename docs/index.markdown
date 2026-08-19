@@ -6,23 +6,17 @@ site.title: CSCI 344 - Fall 2026
 layout: default
 ---
 
-**Lectures:** | T/Th, 1:30PM -- 2:45PM, King 243
-**Instructor:** | Roberto Hoyle (roberto.hoyle@oberlin.edu)
-**Office:** | King 223C
-**Office Hours:** | Tu 15:00 -- 17:00, Weds 10:00 -- 12:00 or by appointment
-**Phone:** | x58424
+**Lectures:** | T/Th, 11:00AM -- 12:15PM, King 239
+**Instructor:** | Roberto Hoyle (rhoyle@oberlin.edu)
+**Office:** | King 125B
+**Office Hours:** | TBD
+**Phone:** | TBD
 **Prerequisites:** | CSCI 241 or consent of the instructor. You should be comfortable with breaking down a large, complex programming assignment into manageable pieces and implement it throughout the course of the semester.
 
-
-
-## Discussions
-Discussions will be held using Piazza.  The enrollment link is on Blackboard.  
 
 ## Textbooks
 No textbooks are required.  All readings are free for download through the Oberlin College network or available on Blackboard.  Please do not purchase any papers for reading, as you will not need to.
 
-## Mask Policy
-The Oberlin Computer Science Department is dedicated to making Computer Science accessible to all students.  Because of this, we will be requiring that all students wear masks in our classrooms and lab spaces this semester.  By masking, you are not only demonstrating respect and kindness for your classmates, but also making sure that medically at-risk students have a learning experience where they can feel comfortable and safe.  Masking will be required for classes, lab periods, drop-in lab helping, and anytime you are using the CS labs or offices.  If you have forgotten to bring a mask with you, an instructor can provide you with one.  
 
 ## Course Description
 
