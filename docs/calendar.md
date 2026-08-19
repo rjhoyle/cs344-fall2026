@@ -54,3 +54,5 @@ Dec 01 |Gender and Sexuality|<a href="https://dl.acm.org/doi/abs/10.1145/3415195
 **Week&nbsp;13** ||
 Dec 03 ||<a href="https://www.usenix.org/system/files/soups2020-bird.pdf">Replication: Why We Still Can’t Browse in Peace:On the Uniqueness and Reidentifiability of WebBrowsing Histories</a><b>(Duker,Noemi)</b><br/><a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234017-dt-content-rid-9629211_1/xid-9629211_1">Classification of Private Tweets using Tweet Content</a>** **<br><b></b>
 Dec 08 |Gender and Sexuality|<a href="https://journals.sagepub.com/doi/abs/10.1177/1461444817744784">Default publicness: Queer youth of color, social media, and being outed by the machine</a>** **
+**Final** ||
+Dec 15 | Final Presentations, 9-11AM | 
