@@ -38,7 +38,9 @@ If a student arrives late, they may not get attendance credit for that day.  Ple
 ## Weekly Readings and Reports
 A written report will be turned in every Monday by 11:59 pm on the week's reading assignments.  Typically, this will mean 4 readings per week.  These are not simple readings!  Expect each one to take at least an hour, and sometimes two.
 	
-Each report should include around half a page of summary of the paper read.  Include the problem investigated by the paper, what the conclusions are, and insights about how the paper fits into the themes for the class.  Finalize each report with a question that the reading assignment inspires in you.  What does the paper leave unanswered?  How could it have been improved?  What are you interested in pursuing now that you have read it?
+Each report should include around half a page of summary of the paper read.  Include the problem investigated by the paper, what the conclusions are, and insights about how the paper fits into the themes for the class.  Finalize each report with a question that the reading assignment inspires in you.  What does the paper leave unanswered?  How could it have been improved?  What are you interested in pursuing now that you have read it?  Do not just do a summary of the paper.  The introspective questions are required for full credit.
+
+**Use of AI to generate these reports will not be tolerated an will result in a failure of the class.**  I reserve the right to do quizzes to verify that the material for the discussion has been read.
 
 In addition, with each weekly assignment, include a link to some recent news article and a description on how it applies to the class.  I will collate and distribute the links to the class.
 Assignments will be graded on a scale of:
@@ -52,7 +54,7 @@ Assignments will be graded on a scale of:
 No late reports will be accepted, but the lowest score will be dropped when calculating the final grade.
 	
 ## Paper Presentations
-Each student will do 2 project presentations on separate readings throughout the semester.  The first presentation will be done with a partner.  The second will be individual.  These will be 5-10 minute presentations on the assigned paper, ending with a list of questions that the class should discuss.  Each presenter will be expected to facilitate the discussion as it happens.
+Each student will do some project presentations on separate readings throughout the semester, depending on the number of students that are enrolled.  Details will be provided once the enrollment for the class has settled.  These will be 5-10 minute presentations on the assigned paper, ending with a list of questions that the class should discuss.  Each presenter will be expected to facilitate the discussion as it happens.
 
 The list of questions to be discussed is to be submitted along with the weekly report, so that I can review them ahead of time.
 
