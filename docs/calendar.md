@@ -19,7 +19,7 @@ Sep 01 | Definitions of Privacy | <a href="http://scholarship.law.gwu.edu/cgi/vi
 Sep 03 | Contextual Integrity | <a href="https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/washlr79&section=16">Contextual Integrity</a>(RJH)
 **Week 3** ||
 Sep 08 | Privacy Economics | <a href="http://dl.acm.org/citation.cfm?id=948051">Privacy, Economics, and Price Discrimination on the Internet</a><b> (RJH)</b><br /><a href="http://heinonline.org/HOL/Page?handle=hein.journals/isjlpsoc4&div=27&g_sent=1&casa_token=&collection=journals">The cost of reading privacy policies</a><b>(RJH)</b>
-Sep 10 | IRB | | 
+Sep 10 | IRB | [IRB Training Instructions](https://www.oberlin.edu/dean-of-the-college-of-arts-and-sciences/institutional-review-board-irb/training) | 
 **Week 4** | |
 Sep 15 | Privacy Economics | <a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234015-dt-content-rid-9629209_1/xid-9629209_1">Pricing Security</a><b> </b><br /><a href="https://www.heinz.cmu.edu/~acquisti/papers/acquisti.pdf">Privacy and rationality in individual decision making </a><b> </b>
 Sep 17 | Privacy for All |<a href="https://dl.acm.org/citation.cfm?id=3025673">Where is the Digital Divide? A Survey of Security, Privacy, and Socioeconomics</a><b> </b><br><a href="https://dl.acm.org/citation.cfm?id=3025587">Parents’ and Children’s Preferences about Parents Sharing about Children on Social Media</a><b> </b>
