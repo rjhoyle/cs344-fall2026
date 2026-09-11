@@ -21,25 +21,25 @@ Sep 03 | Contextual Integrity | <a href="https://heinonline.org/hol-cgi-bin/get_
 Sep 08 | Privacy Economics | <a href="http://dl.acm.org/citation.cfm?id=948051">Privacy, Economics, and Price Discrimination on the Internet</a><b> (RJH)</b><br /><a href="http://heinonline.org/HOL/Page?handle=hein.journals/isjlpsoc4&div=27&g_sent=1&casa_token=&collection=journals">The cost of reading privacy policies</a><b>(RJH)</b>
 Sep 10 | IRB | [IRB Training Instructions](https://www.oberlin.edu/dean-of-the-college-of-arts-and-sciences/institutional-review-board-irb/training) | 
 **Week 4** | |
-Sep 15 | Privacy Economics | <a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234015-dt-content-rid-9629209_1/xid-9629209_1">Pricing Security</a><b> </b><br /><a href="https://www.heinz.cmu.edu/~acquisti/papers/acquisti.pdf">Privacy and rationality in individual decision making </a><b> </b>
-Sep 17 | Privacy for All |<a href="https://dl.acm.org/citation.cfm?id=3025673">Where is the Digital Divide? A Survey of Security, Privacy, and Socioeconomics</a><b> </b><br><a href="https://dl.acm.org/citation.cfm?id=3025587">Parents’ and Children’s Preferences about Parents Sharing about Children on Social Media</a><b> </b>
+Sep 15 | Privacy Economics | <a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234015-dt-content-rid-9629209_1/xid-9629209_1">Pricing Security</a><b>**(Eli)** </b><br /><a href="https://www.heinz.cmu.edu/~acquisti/papers/acquisti.pdf">Privacy and rationality in individual decision making </a><b>**(Dane)** </b>
+Sep 17 | Privacy for All |<a href="https://dl.acm.org/citation.cfm?id=3025673">Where is the Digital Divide? A Survey of Security, Privacy, and Socioeconomics</a><b>**(Daisy)** </b><br><a href="https://dl.acm.org/citation.cfm?id=3025587">Parents’ and Children’s Preferences about Parents Sharing about Children on Social Media</a><b> **(Luna)**</b>
 **Week&nbsp;5** ||
-Sep 22 | Privacy for All | <a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234018-dt-content-rid-9629212_1/xid-9629212_1">"Just How Much Did That Wheelchair Cost?": Management of Privacy Boundaries by Persons with Disabilities"</a><b> </b><br /><a href="http://occs.cs.oberlin.edu/~rhoyle/papers/vip-privacy-chi15.pdf">Privacy Concerns and Behaviors of People with Visual Impairments</a><b> </b>
-Sep 24 |Onion Routing|<a href="http://www.usenix.org/events/sec04/tech/full_papers/dingledine/dingledine.pdf">Tor: The Second-Generation Onion Router </a><b> </b><br/><a href="https://www.usenix.org/system/files/conference/soups2017/soups2017-gallagher.pdf">New Me: Understanding Expert and Non-Expert Perceptions and Usage of the Tor Anonymity Network</a><b> </b>
+Sep 22 | Privacy for All | <a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234018-dt-content-rid-9629212_1/xid-9629212_1">"Just How Much Did That Wheelchair Cost?": Management of Privacy Boundaries by Persons with Disabilities"</a><b>**(Aiden)** </b><br /><a href="http://occs.cs.oberlin.edu/~rhoyle/papers/vip-privacy-chi15.pdf">Privacy Concerns and Behaviors of People with Visual Impairments</a><b>**(Griffin)** </b>
+Sep 24 |Onion Routing|<a href="http://www.usenix.org/events/sec04/tech/full_papers/dingledine/dingledine.pdf">Tor: The Second-Generation Onion Router </a><b>(Asher) </b><br/><a href="https://www.usenix.org/system/files/conference/soups2017/soups2017-gallagher.pdf">New Me: Understanding Expert and Non-Expert Perceptions and Usage of the Tor Anonymity Network</a><b> **(Aisha)** </b>
 **Week&nbsp;6** ||
-Sep 29 |Surveillance| <a href="https://www.petsymposium.org/2018/files/papers/issue1/paper42-2018-1-source.pdf">I never signed up for this! Privacy implications of email tracking</a><b> </b><br/> <a href="https://dl.acm.org/citation.cfm?id=3025735">Toys that Listen: A Study of Parents, Children, and Internet-Connected Toys</a> <b> </b><br/>
+Sep 29 |Surveillance| <a href="https://www.petsymposium.org/2018/files/papers/issue1/paper42-2018-1-source.pdf">I never signed up for this! Privacy implications of email tracking</a><b> (Jade) </b><br/> <a href="https://dl.acm.org/citation.cfm?id=3025735">Toys that Listen: A Study of Parents, Children, and Internet-Connected Toys</a> <b> (CJ) </b><br/>
 Oct 01 | Project Proposals | 
 **Week 7** ||
 Oct 06 |Anonymity|<a href="https://dl.acm.org/citation.cfm?id=2382450">Adversarial stylometry: Circumventing authorship recognition to preserve privacy and anonymity</a> 
-Oct 08 |Surveillance|<a href="https://www.usenix.org/system/files/conference/soups2017/soups2017-bloom.pdf">Self-Driving Cars and Data Collection: Privacy Perceptions of Networked Autonomous Vehicles</a> <br /> <a href="https://www.usenix.org/conference/soups2020/presentation/barbosa">Do Privacy and Security Matter to Everyone? Quantifying and Clustering User-Centric Considerations About Smart Home Device Adoption</a>
+Oct 08 |Surveillance|<a href="https://www.usenix.org/system/files/conference/soups2017/soups2017-bloom.pdf">Self-Driving Cars and Data Collection: Privacy Perceptions of Networked Autonomous Vehicles</a>**(Max)** <br /> <a href="https://www.usenix.org/conference/soups2020/presentation/barbosa">Do Privacy and Security Matter to Everyone? Quantifying and Clustering User-Centric Considerations About Smart Home Device Adoption</a>
 **Week 8** ||
 Oct 08 |Advertising| <a href="https://arxiv.org/abs/1705.08568">The Future of Ad Blocking: An Analytical Framework and New Techniques</a><br><a href="https://dl.acm.org/citation.cfm?id=3052714">De-anonymizing Web Browsing Data with Social Networks</a> 
-Oct 15 |Advertising| <a href="https://dl.acm.org/citation.cfm?id=2207759">Why Johnny Can't Opt Out: A Usability Evaluation of Tools to Limit Online Behavioral Advertising</a> <br><a href="https://dl.acm.org/citation.cfm?id=2335362">Smart, Useful, Scary, Creepy: Perceptions of Online Behavioral Advertising</a>
+Oct 15 |Advertising| <a href="https://dl.acm.org/citation.cfm?id=2207759">Why Johnny Can't Opt Out: A Usability Evaluation of Tools to Limit Online Behavioral Advertising</a> <br><a href="https://dl.acm.org/citation.cfm?id=2335362">Smart, Useful, Scary, Creepy: Perceptions of Online Behavioral Advertising</a>**(Christopher)**
 **Fall&nbsp;Break** ||
 Oct 20 | Fall Break ||
 Oct 22 | Fall Break ||
 **Week 9** ||
-Oct 27 |Social Networking|<a href="http://dl.acm.org/citation.cfm?id=2078841">I regretted the minute I pressed share: A qualitative study of regrets on Facebook</a> <br /><a href="http://doi.acm.org/10.1145/2441776.2441865">The post that wasn't: exploring self-censorship on facebook</a> 
+Oct 27 |Social Networking|<a href="http://dl.acm.org/citation.cfm?id=2078841">I regretted the minute I pressed share: A qualitative study of regrets on Facebook</a>  <br /><a href="http://doi.acm.org/10.1145/2441776.2441865">The post that wasn't: exploring self-censorship on facebook</a> 
 Oct 29 |Social Networking |<a href="http://doi.acm.org/10.1145/2556288.2557413">A field trial of privacy nudges for facebook</a> <br><a href="https://www.sciencedirect.com/science/article/pii/S0140366416307083">Online advertising: Analysis of privacy threats and protection approaches</a>
 **Week&nbsp;9** ||
 Nov 03 |Misc|<a href="https://dl.acm.org/citation.cfm?id=3025875">Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse</a><br>
@@ -48,7 +48,7 @@ Nov 05 |Privacy Controls|<a href="https://dl.acm.org/citation.cfm?id=3054926">Nu
 Nov 10 |Drones|<a href="https://dl.acm.org/citation.cfm?id=3026049">Free to Fly in Public Spaces: Drone Controllers’ Privacy Perceptions and Practices</a> <br>
 Nov 12 |Ethics|
 **Week 11** ||
-Nov 17 |Legal Issues| <a href="https://dl.acm.org/citation.cfm?id=1753561">Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach</a><b></b><br><a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234016-dt-content-rid-9629210_1/xid-9629210_1">Privacy</a> <br><b></b>
+Nov 17 |Legal Issues| <a href="https://dl.acm.org/citation.cfm?id=1753561">Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach</a><b> </b><br><a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234016-dt-content-rid-9629210_1/xid-9629210_1">Privacy</a> <br><b></b>
 Nov 19 | |
 **Week 12** ||
 Nov 24 |TBD|<a href="http://www.cs.ucsb.edu/~ravenben/publications/pdf/whisper-imc14.pdf">Whispers in the Dark: Analysis of an Anonymous Social Network</a><br> <a href="https://www.usenix.org/conference/soups2020/presentation/dev">Lessons Learnt from Comparing WhatsApp Privacy Concerns Across Saudi and Indian Populations</a>
