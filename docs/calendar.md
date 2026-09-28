@@ -30,8 +30,8 @@ Sep 24 |Onion Routing|<a href="http://www.usenix.org/events/sec04/tech/full_pape
 Sep 29 |Surveillance| <a href="https://www.petsymposium.org/2018/files/papers/issue1/paper42-2018-1-source.pdf">I never signed up for this! Privacy implications of email tracking</a><b> (Jade) </b><br/> <a href="https://dl.acm.org/citation.cfm?id=3025735">Toys that Listen: A Study of Parents, Children, and Internet-Connected Toys</a> <b> (CJ) </b><br/>
 Oct 01 | Project Proposals | 
 **Week 7** ||
-Oct 06 |Anonymity|<a href="https://dl.acm.org/citation.cfm?id=2382450">Adversarial stylometry: Circumventing authorship recognition to preserve privacy and anonymity</a> 
-Oct 08 |Surveillance|<a href="https://www.usenix.org/system/files/conference/soups2017/soups2017-bloom.pdf">Self-Driving Cars and Data Collection: Privacy Perceptions of Networked Autonomous Vehicles</a>**(Max)** <br /> <a href="https://www.usenix.org/conference/soups2020/presentation/barbosa">Do Privacy and Security Matter to Everyone? Quantifying and Clustering User-Centric Considerations About Smart Home Device Adoption</a>
+Oct 06 |Anonymity|<a href="https://dl.acm.org/citation.cfm?id=2382450">Adversarial stylometry: Circumventing authorship recognition to preserve privacy and anonymity</a> <br><a href="https://petsymposium.org/popets/2026/popets-2026-0017.php">How Experts Personalize Privacy & Security Advice for At-Risk Users</a>
+Oct 08 |Surveillance|<a href="https://www.usenix.org/system/files/conference/soups2017/soups2017-bloom.pdf">Self-Driving Cars and Data Collection: Privacy Perceptions of Networked Autonomous Vehicles</a>**(Max)** <br /> <a href="https://eprint.iacr.org/2025/2316">Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem</a>
 **Week 8** ||
 Oct 08 |Advertising| <a href="https://arxiv.org/abs/1705.08568">The Future of Ad Blocking: An Analytical Framework and New Techniques</a><br><a href="https://dl.acm.org/citation.cfm?id=3052714">De-anonymizing Web Browsing Data with Social Networks</a> 
 Oct 15 |Advertising| <a href="https://dl.acm.org/citation.cfm?id=2207759">Why Johnny Can't Opt Out: A Usability Evaluation of Tools to Limit Online Behavioral Advertising</a> <br><a href="https://dl.acm.org/citation.cfm?id=2335362">Smart, Useful, Scary, Creepy: Perceptions of Online Behavioral Advertising</a>**(Christopher)**
@@ -40,23 +40,23 @@ Oct 20 | Fall Break ||
 Oct 22 | Fall Break ||
 **Week 9** ||
 Oct 27 |Social Networking|<a href="http://dl.acm.org/citation.cfm?id=2078841">I regretted the minute I pressed share: A qualitative study of regrets on Facebook</a>  <br /><a href="http://doi.acm.org/10.1145/2441776.2441865">The post that wasn't: exploring self-censorship on facebook</a> 
-Oct 29 |Social Networking |<a href="http://doi.acm.org/10.1145/2556288.2557413">A field trial of privacy nudges for facebook</a> <br><a href="https://www.sciencedirect.com/science/article/pii/S0140366416307083">Online advertising: Analysis of privacy threats and protection approaches</a>
+Oct 29 | |<a href="http://doi.acm.org/10.1145/2556288.2557413">A field trial of privacy nudges for facebook</a> <br><a href="https://www.sciencedirect.com/science/article/pii/S0140366416307083">Online advertising: Analysis of privacy threats and protection approaches</a>
 **Week&nbsp;9** ||
-Nov 03 |Misc|<a href="https://dl.acm.org/citation.cfm?id=3025875">Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse</a><br>
-Nov 05 |Privacy Controls|<a href="https://dl.acm.org/citation.cfm?id=3054926">Nudges for Privacy and Security: Understanding and Assisting Users’ Choices Online</a>
+Nov 03 ||<a href="https://dl.acm.org/citation.cfm?id=3025875">Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse</a><br><a href="https://pure.mpg.de/rest/items/item_3688989/component/file_3688990/content">Clicking into Exposure: Uncovering Privacy Risks of Google Click Identifier in YouTube Ads</a>
+Nov 05 ||<a href="https://dl.acm.org/doi/10.1145/3772318.3790794">Re-Examining the Examiners: Changes in Privacy and Security Perceptions of Exam Proctoring</a><br><a href="https://crysp.petsymposium.org/popets/2026/popets-2026-0092.pdf">Contextual Intent: Activists’ Privacy Considerations for Collaborative Technology in U.S. Social Movement Groups</a>
 **Week 10** ||
-Nov 10 |Drones|<a href="https://dl.acm.org/citation.cfm?id=3026049">Free to Fly in Public Spaces: Drone Controllers’ Privacy Perceptions and Practices</a> <br>
-Nov 12 |Ethics|
+Nov 10 ||<a href="https://dl.acm.org/doi/full/10.1145/3772318.3790881">Privacy and Trust vs. Utility: Adoption of Commercial vs. Institutional AI assistants Among University Users</a> <br> <a href="https://dl.acm.org/doi/full/10.1145/3772318.3791531">Privacy and Safety Experiences and Concerns of US Women Using Generative AI for Seeking Sexual and Reproductive Health Information</a>
+Nov 12 ||
 **Week 11** ||
-Nov 17 |Legal Issues| <a href="https://dl.acm.org/citation.cfm?id=1753561">Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach</a><b> </b><br><a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234016-dt-content-rid-9629210_1/xid-9629210_1">Privacy</a> <br><b></b>
+Nov 17 || <a href="https://dl.acm.org/citation.cfm?id=1753561">Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach</a><b> </b><br><a href="https://www.flux.utah.edu/paper/singh-pets26">The Empire Strikes Back (at Your Privacy): An Archaeology of Tracking on Government Websites</a> <br><b></b>
 Nov 19 | |
 **Week 12** ||
-Nov 24 |TBD|<a href="http://www.cs.ucsb.edu/~ravenben/publications/pdf/whisper-imc14.pdf">Whispers in the Dark: Analysis of an Anonymous Social Network</a><br> <a href="https://www.usenix.org/conference/soups2020/presentation/dev">Lessons Learnt from Comparing WhatsApp Privacy Concerns Across Saudi and Indian Populations</a>
+Nov 24 ||<a href="http://www.cs.ucsb.edu/~ravenben/publications/pdf/whisper-imc14.pdf">Whispers in the Dark: Analysis of an Anonymous Social Network</a><br> <a href="https://www.usenix.org/conference/soups2020/presentation/dev">Lessons Learnt from Comparing WhatsApp Privacy Concerns Across Saudi and Indian Populations</a>
 **Thanksgiving Break** | |
 | Thanksgiving Break (Nov 25 - 27) |
-Dec 01 |Gender and Sexuality|<a href="https://dl.acm.org/doi/abs/10.1145/3415195">Trans Time: Safety, Privacy, and Content Warnings on a Transgender-Specific Social Media Site</a><br><a href="https://www.usenix.org/conference/soups2020/presentation/geeng">Usable Sexurity: Studying People’s Concerns and Strategies When Sexting</a>
-Dec 03 ||<a href="https://www.usenix.org/system/files/soups2020-bird.pdf">Replication: Why We Still Can’t Browse in Peace:On the Uniqueness and Reidentifiability of WebBrowsing Histories</a><b></b><br/><a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234017-dt-content-rid-9629211_1/xid-9629211_1">Classification of Private Tweets using Tweet Content</a><br><b></b>
+Dec 01 ||<a href="https://dl.acm.org/doi/abs/10.1145/3415195">Trans Time: Safety, Privacy, and Content Warnings on a Transgender-Specific Social Media Site</a><br><a href="https://dl.acm.org/doi/10.1145/3772318.3791102">What’s Privacy Good for? Measuring Privacy as a Shield from Harms due to AI Inference of Personal Data</a>
+Dec 03 ||<a href="https://www.usenix.org/system/files/soups2020-bird.pdf">Replication: Why We Still Can’t Browse in Peace:On the Uniqueness and Reidentifiability of WebBrowsing Histories</a><b></b><br/><a href="https://dl.acm.org/doi/full/10.1145/3772318.3791264">The Dark Patterns Knowledge Stack: Exploring New Ways to Negotiate Context, Law, and Design</a><br><b></b>
 **Week&nbsp;13** ||
-Dec 08 |Gender and Sexuality|<a href="https://journals.sagepub.com/doi/abs/10.1177/1461444817744784">Default publicness: Queer youth of color, social media, and being outed by the machine</a>
+Dec 08 ||<a href="https://dl.acm.org/doi/full/10.1145/3772318.3791393">Good Fences Make Good Neighbors: What’s Acceptable (and What’s Not) in Neighborhood Video Surveillance</a><br><a href="https://www.usenix.org/system/files/soups2026-loop.pdf">Maybe... I Don’t Really Wanna Clone: Attitudes and Anticipated Harms of (Consensual) After-Death Cloning of One’s Own and Voices of Entrusted Others</a>
 **Final** ||
 Dec 15 | Final Presentations, 9-11AM | 
