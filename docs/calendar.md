@@ -39,13 +39,13 @@ Oct 15 |Advertising| <a href="https://dl.acm.org/citation.cfm?id=2207759">Why Jo
 Oct 20 | Fall Break ||
 Oct 22 | Fall Break ||
 **Week 9** ||
-Oct 27 |Social Networking|<a href="http://dl.acm.org/citation.cfm?id=2078841">I regretted the minute I pressed share: A qualitative study of regrets on Facebook</a> **(Aisha)** <br /><a href="http://doi.acm.org/10.1145/2441776.2441865">The post that wasn't: exploring self-censorship on facebook</a> **(Griffin)**
+Oct 27 ||<a href="https://dl.acm.org/doi/full/10.1145/3772318.3791531">Privacy and Safety Experiences and Concerns of US Women Using Generative AI for Seeking Sexual and Reproductive Health Information</a>**(CJ)** <br> <a href="http://doi.acm.org/10.1145/2441776.2441865">The post that wasn't: exploring self-censorship on facebook</a> **(Griffin)**
 Oct 29 | |<a href="http://doi.acm.org/10.1145/2556288.2557413">A field trial of privacy nudges for facebook</a> **(Griffin)**<br><a href="https://www.sciencedirect.com/science/article/pii/S0140366416307083">Online advertising: Analysis of privacy threats and protection approaches</a> **(Aiden)**
 **Week&nbsp;9** ||
 Nov 03 ||<a href="https://dl.acm.org/citation.cfm?id=3025875">Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse</a>**(Aiden)**<br><a href="https://pure.mpg.de/rest/items/item_3688989/component/file_3688990/content">Clicking into Exposure: Uncovering Privacy Risks of Google Click Identifier in YouTube Ads</a> **(Aisha)**
 Nov 05 ||<a href="https://dl.acm.org/doi/10.1145/3772318.3790794">Re-Examining the Examiners: Changes in Privacy and Security Perceptions of Exam Proctoring</a>**(Dane)**<br>
 **Week 10** ||
-Nov 10 ||<a href="https://dl.acm.org/doi/full/10.1145/3772318.3791531">Privacy and Safety Experiences and Concerns of US Women Using Generative AI for Seeking Sexual and Reproductive Health Information</a>**(CJ)** <br><a href="https://crysp.petsymposium.org/popets/2026/popets-2026-0092.pdf">Contextual Intent: Activists’ Privacy Considerations for Collaborative Technology in U.S. Social Movement Groups</a>**(Eli)**
+Nov 10 || <a href="http://dl.acm.org/citation.cfm?id=2078841">I regretted the minute I pressed share: A qualitative study of regrets on Facebook</a> **(Aisha)** <br /><br><a href="https://crysp.petsymposium.org/popets/2026/popets-2026-0092.pdf">Contextual Intent: Activists’ Privacy Considerations for Collaborative Technology in U.S. Social Movement Groups</a>**(Eli)**
 Nov 12 || <a href="https://eprint.iacr.org/2025/2316">Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem</a>**(Asher)**
 **Week 11** ||
 Nov 17 || <a href="https://dl.acm.org/citation.cfm?id=1753561">Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach</a>**(Max)**<br><a href="https://www.flux.utah.edu/paper/singh-pets26">The Empire Strikes Back (at Your Privacy): An Archaeology of Tracking on Government Websites</a> <br>**(Jade)**
