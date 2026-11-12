@@ -46,16 +46,16 @@ Nov 03 ||<a href="https://dl.acm.org/citation.cfm?id=3025875">Stories from Survi
 Nov 05 ||<a href="https://dl.acm.org/doi/10.1145/3772318.3790794">Re-Examining the Examiners: Changes in Privacy and Security Perceptions of Exam Proctoring</a>**(Dane)**<br><a href="http://doi.acm.org/10.1145/2556288.2557413">A field trial of privacy nudges for facebook</a> **(Griffin)**<br>
 **Week 10** ||
 Nov 10 || <a href="http://dl.acm.org/citation.cfm?id=2078841">I regretted the minute I pressed share: A qualitative study of regrets on Facebook</a> **(Aisha)** <br /><br><a href="https://crysp.petsymposium.org/popets/2026/popets-2026-0092.pdf">Contextual Intent: Activists’ Privacy Considerations for Collaborative Technology in U.S. Social Movement Groups</a>**(Eli)**
-Nov 12 || <a href="https://eprint.iacr.org/2025/2316">Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem</a>**(Asher)**<br/> <a href="https://upcommons.upc.edu/bitstreams/cf5023d6-adba-4410-8249-c571e0e2698b/download">Online advertising: Analysis of privacy threats and protection approaches</a> **(Aiden)**
+Nov 12 || 
 **Week 11** ||
 Nov 17 || <a href="https://dl.acm.org/citation.cfm?id=1753561">Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach</a>**(Max)**<br><a href="https://www.flux.utah.edu/paper/singh-pets26">The Empire Strikes Back (at Your Privacy): An Archaeology of Tracking on Government Websites</a> <br>**(Jade)**
-Nov 19 || <a href="https://dl.acm.org/citation.cfm?id=2335362">Smart, Useful, Scary, Creepy: Perceptions of Online Behavioral Advertising</a>**(Christopher)**
+Nov 19 || <a href="https://dl.acm.org/citation.cfm?id=2335362">Smart, Useful, Scary, Creepy: Perceptions of Online Behavioral Advertising</a>**(Christopher)**</br><a href="https://upcommons.upc.edu/bitstreams/cf5023d6-adba-4410-8249-c571e0e2698b/download">Online advertising: Analysis of privacy threats and protection approaches</a> **(Aiden)**
 **Week 12** ||
 Nov 24 ||<a href="http://www.cs.ucsb.edu/~ravenben/publications/pdf/whisper-imc14.pdf">Whispers in the Dark: Analysis of an Anonymous Social Network</a> **(Luna)**<br> <a href="https://www.usenix.org/conference/soups2020/presentation/dev">Lessons Learnt from Comparing WhatsApp Privacy Concerns Across Saudi and Indian Populations</a> **(Daisy)**
 **Thanksgiving Break** | |
 | Thanksgiving Break (Nov 25 - 27) |
 Dec 01 ||<a href="https://dl.acm.org/doi/abs/10.1145/3415195">Trans Time: Safety, Privacy, and Content Warnings on a Transgender-Specific Social Media Site</a>**(Jade)**<br><a href="https://www.usenix.org/system/files/soups2020-bird.pdf">Replication: Why We Still Can’t Browse in Peace:On the Uniqueness and Reidentifiability of WebBrowsing Histories</a>**(Dane)**<br/>
-Dec 03 ||<a href="https://dl.acm.org/doi/full/10.1145/3772318.3791264">The Dark Patterns Knowledge Stack: Exploring New Ways to Negotiate Context, Law, and Design</a><br><b></b> **(Christopher)**
+Dec 03 ||<a href="https://dl.acm.org/doi/full/10.1145/3772318.3791264">The Dark Patterns Knowledge Stack: Exploring New Ways to Negotiate Context, Law, and Design</a><br><b></b> **(Christopher)**<a href="https://eprint.iacr.org/2025/2316">Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem</a>**(Asher)**
 **Week&nbsp;13** ||
 Dec 08 ||<a href="https://dl.acm.org/doi/full/10.1145/3772318.3791393">Good Fences Make Good Neighbors: What’s Acceptable (and What’s Not) in Neighborhood Video Surveillance</a>**(Max)**<br><a href="https://www.usenix.org/system/files/soups2026-loop.pdf">Maybe... I Don’t Really Wanna Clone: Attitudes and Anticipated Harms of (Consensual) After-Death Cloning of One’s Own and Voices of Entrusted Others</a> **(Asher)**
 **Final** ||
